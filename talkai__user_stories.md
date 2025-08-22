@@ -9,4 +9,4 @@
 3. As a user, I want my details to be stored in local storage, so that my data persists between sessions.
 
     **Acceptance Criteria:**
-    -User details are saved in local storage after registration and used for authentication during login.
+    - User details are saved in local storage after registration and used for authentication during login.
