@@ -1,25 +1,24 @@
 1. Login / Registration
 
 US-1: As a user, I want to register by entering my username, email, and password and clicking the Sign Up button so that I can create an account.
-Acceptance Criteria:
-
-   - User can register with valid username, email, and password.
-
-   - After registration, the user is redirected to the home screen.
+   Acceptance Criteria:
+      - User can register with valid username, email, and password.
+   
+      - After registration, the user is redirected to the home screen.
 
 US-2: As a user, I want to log in with my credentials so that I can access my account.
-Acceptance Criteria:
+   Acceptance Criteria:
 
-Users can log in with correct credentials and are redirected to the home screen.
-
-An error message is displayed for incorrect credentials.
+      - Users can log in with correct credentials and are redirected to the home screen.
+      
+      - An error message is displayed for incorrect credentials.
 
 US-3: As a user, I want my login state to persist so that I don’t need to log in again every time I open the app.
-Acceptance Criteria:
-
-User details are stored securely in local storage.
-
-Session is maintained until logout.
+   Acceptance Criteria:
+   
+      - User details are stored securely in local storage.
+      
+      - Session is maintained until logout.
 
 2. Home Screen
 
